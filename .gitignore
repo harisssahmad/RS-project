@@ -170,5 +170,10 @@ cython_debug/
 # Ruff stuff:
 .ruff_cache/
 
+# Other 
+app/*.h5
+app/cleaned_rating.csv
+app/similarity.pkl
+
 # PyPI configuration file
 .pypirc
