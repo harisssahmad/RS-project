@@ -367,7 +367,7 @@ a:hover, a:active {
 }
 </style>
 <div class="footer">
-<p>Made with ❤️ by K21-4677 Haris Ahmad, K21-3964 Saud Jamal, K21-3415 Muhammad Haris</p>
+<p>Made with ❤️ by K21-4677 Haris Ahmad & K21-3964 Saud Jamal</p>
 </div>
 """
 
